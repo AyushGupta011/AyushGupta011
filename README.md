@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Ayush Gupta
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=FF5733&background=00000000&center=true&vCenter=true&width=700&lines=Open-Source+Enthusiast;Hacktoberfest+Contributor;Full-Stack+Developer" alt="Typing SVG" />
+# 👋 Ayush Gupta ✨ Code. Create. Contribute.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=230&section=header&text=⚡%20Ayush%20Kumar%20⚡&fontSize=60&fontAlignY=35&animation=fadeIn&desc=💻%20Full%20Stack%20Developer%20|%20Open%20Source%20Contributor%20|%20Innovator&descAlignY=55&descAlign=50" />
-</p>
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=FF5733&background=00000000&center=true&vCenter=true&width=700&lines=Turning+%E2%98%95+%2B+%F0%9F%92%BB+into+Open+Source;Full-Stack+Developer+%7C+Hacktoberfest+Contributor;MERN+Stack+Lover+%26+JavaScript+Fan;Always+Learning+New+Tech+%26+Innovating" alt="Typing SVG" />
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=700&lines=✨+Passionate+about+Building+Impactful+Projects;🚀+Hacktoberfest+2025+Contributor;💡+Always+Learning+New+Tech;🤝+Let's+Collaborate+on+Open+Source!">
-</h3>
+[![Full Stack Developer](https://img.shields.io/badge/Full%20Stack-Developer-blueviolet?style=for-the-badge)](https://github.com/AyushGupta011)
+[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9C%94-brightgreen?style=for-the-badge)](https://github.com/AyushGupta011)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow?style=for-the-badge)](https://github.com/AyushGupta011)
+[![MERN Stack](https://img.shields.io/badge/MERN-Developer-success?style=for-the-badge)](https://github.com/AyushGupta011)
+
+
 
 [![An image of @ayushgupta011's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushgupta011)](https://holopin.io/@ayushgupta011)
 
