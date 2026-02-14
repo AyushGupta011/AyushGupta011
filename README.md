@@ -5,6 +5,7 @@
 [![Full Stack Developer](https://img.shields.io/badge/Full%20Stack-Developer-blueviolet?style=for-the-badge)](https://github.com/AyushGupta011)
 [![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9C%94-brightgreen?style=for-the-badge)](https://github.com/AyushGupta011)
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)](https://github.com/AyushGupta011)
+[![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge)](https://github.com/AyushGupta011)
 [![MERN Stack](https://img.shields.io/badge/MERN-Developer-success?style=for-the-badge)](https://github.com/AyushGupta011)
 
 
