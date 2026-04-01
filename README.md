@@ -13,9 +13,8 @@
 [![An image of @ayushgupta011's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushgupta011)](https://holopin.io/@ayushgupta011)
 
 ## 🔹 GitHub Stats
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushGupta011&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGupta011&layout=compact&theme=radical)
-
+![Ayush's GitHub stats](https://github-stats-alpha.vercel.app/api?username=AyushGupta011&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AyushGupta011&layout=compact&theme=radical)
 ## 🔹 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayushgupta-webdev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome)](https://ayushwebsite.vercel.app)
