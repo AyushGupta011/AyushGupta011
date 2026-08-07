@@ -81,7 +81,6 @@ fun_fact: "I debug distributed systems before I debug my sleep schedule"
 <img src="https://raw.githubusercontent.com/AyushGupta011/AyushGupta011/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
-> ⚡ To activate this: add a GitHub Action (`platane/snk`) to your profile repo — it auto-generates this animated snake from your real contribution graph. I'll show you how below if you want it wired up.
 
 ---
 
@@ -90,7 +89,7 @@ fun_fact: "I debug distributed systems before I debug my sleep schedule"
 ### 📫 Let's Build Something
 
 <a href="https://www.linkedin.com/in/ayushgupta-webdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://ayushwebsite.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://ayugupta.in"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://holopin.io/@ayushgupta011"><img src="https://img.shields.io/badge/Holopin-8E2DE2?style=for-the-badge&logo=achievethis&logoColor=white"/></a>
 
 <br/><br/>
