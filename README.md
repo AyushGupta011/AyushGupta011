@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:8E2DE2&height=220&section=header&text=Ayush%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Dev%20%7C%20Backend%20Engineer%20%7C%20Open%20Source&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=FF5733&background=00000000&center=true&vCenter=true&width=800&lines=Turning+%E2%98%95+%2B+%F0%9F%92%BB+into+Production+Systems;Backend+Engineer+%40+Web3Task;NestJS+%7C+TypeScript+%7C+Redis+%7C+PostgreSQL;Building+Distributed+Systems+for+Fun" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=FF5733&background=00000000&center=true&vCenter=true&width=800&lines=Turning+%E2%98%95+%2B+%F0%9F%92%BB+into+Production+Systems;NestJS+%7C+TypeScript+%7C+Redis+%7C+PostgreSQL;Building+Distributed+Systems+for+Fun" alt="Typing SVG" />
 
 <br/>
 
