@@ -66,7 +66,7 @@ fun_fact: "I debug distributed systems before I debug my sleep schedule"
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushGupta011&theme=radical&hide_border=true&background=0D1117&ring=FF5733&fire=8E2DE2&currStreakLabel=FF5733"/>
+<img src="https://streak-stats.demolab.com/?user=AyushGupta011&theme=radical&hide_border=true&background=0D1117&ring=FF5733&fire=8E2DE2&currStreakLabel=FF5733"/>
 </div>
 
 <div align="center">
