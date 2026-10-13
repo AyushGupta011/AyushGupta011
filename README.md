@@ -74,10 +74,6 @@ fun_fact: "I debug distributed systems before I debug my sleep schedule"
 <img src="./loc.svg" alt="Lines of code" />
 </div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AyushGupta011&theme=radical&no-frame=true&no-bg=true&row=1&column=7"/>
-</div>
-
 ---
 
 ### 🐍 Contribution Snake
