@@ -1,0 +1,15 @@
+name: Update LOC card
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  loc:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: AyushGupta011/loc-card@v1
+        with:
+          theme: dark
