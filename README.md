@@ -61,12 +61,17 @@ fun_fact: "I debug distributed systems before I debug my sleep schedule"
 ### 📊 GitHub Analytics
 
 <div align="center">
+  
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=AyushGupta011&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5733&icon_color=8E2DE2&count_private=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGupta011&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5733"/>
 </div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=AyushGupta011&theme=radical&hide_border=true&background=0D1117&ring=FF5733&fire=8E2DE2&currStreakLabel=FF5733"/>
+</div>
+
+<div align="center">
+<img src="./loc.svg" alt="Lines of code" />
 </div>
 
 <div align="center">
