@@ -2,25 +2,25 @@
   <rect x="0.5" y="0.5" width="494" height="255" rx="6" fill="#0d1117" stroke="#30363d"/>
   <g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif">
     <text x="25" y="35" fill="#ff5733" font-size="18" font-weight="600">AyushGupta011's Lines of Code</text>
-    <text x="25" y="78" fill="#ff5733" font-size="30" font-weight="700">341,874</text>
+    <text x="25" y="78" fill="#ff5733" font-size="30" font-weight="700">347,613</text>
     <text x="25" y="98" fill="#9eeaf9" font-size="13">lines added</text>
-    <text x="173.33333333333334" y="78" fill="#ff5733" font-size="30" font-weight="700">10,043</text>
+    <text x="173.33333333333334" y="78" fill="#ff5733" font-size="30" font-weight="700">10,045</text>
     <text x="173.33333333333334" y="98" fill="#9eeaf9" font-size="13">lines deleted</text>
-    <text x="321.6666666666667" y="78" fill="#ff5733" font-size="30" font-weight="700">331,831</text>
+    <text x="321.6666666666667" y="78" fill="#ff5733" font-size="30" font-weight="700">337,568</text>
     <text x="321.6666666666667" y="98" fill="#9eeaf9" font-size="13">net lines</text>
-    <text x="25" y="120" fill="#6e7681" font-size="11">42 repos · updated 2026-10-27</text>
+    <text x="25" y="120" fill="#6e7681" font-size="11">43 repos · updated 2026-10-28</text>
     <clipPath id="bar"><rect x="25" y="134" width="445" height="8" rx="4"/></clipPath>
-    <g clip-path="url(#bar)"><rect x="25" y="134" width="445" height="8" fill="#30363d"/><rect x="25.00" y="134" width="174.50" height="8" fill="#f1e05a"/><rect x="199.50" y="134" width="128.71" height="8" fill="#3178c6"/><rect x="328.21" y="134" width="98.63" height="8" fill="#3572A5"/><rect x="426.84" y="134" width="25.59" height="8" fill="#563d7c"/><rect x="452.44" y="134" width="10.15" height="8" fill="#e34c26"/><rect x="462.59" y="134" width="3.20" height="8" fill="#DA5B0B"/><rect x="465.79" y="134" width="4.21" height="8" fill="#8b949e"/></g>
+    <g clip-path="url(#bar)"><rect x="25" y="134" width="445" height="8" fill="#30363d"/><rect x="25.00" y="134" width="165.90" height="8" fill="#f1e05a"/><rect x="190.90" y="134" width="134.74" height="8" fill="#3178c6"/><rect x="325.64" y="134" width="93.77" height="8" fill="#3572A5"/><rect x="419.41" y="134" width="33.90" height="8" fill="#563d7c"/><rect x="453.30" y="134" width="9.65" height="8" fill="#e34c26"/><rect x="462.96" y="134" width="3.04" height="8" fill="#DA5B0B"/><rect x="466.00" y="134" width="4.00" height="8" fill="#8b949e"/></g>
     <circle cx="30" cy="166" r="5" fill="#f1e05a"/>
-    <text x="41" y="170" fill="#9eeaf9" font-size="12">JavaScript 39.2%</text>
+    <text x="41" y="170" fill="#9eeaf9" font-size="12">JavaScript 37.3%</text>
     <circle cx="255" cy="166" r="5" fill="#3178c6"/>
-    <text x="266" y="170" fill="#9eeaf9" font-size="12">TypeScript 28.9%</text>
+    <text x="266" y="170" fill="#9eeaf9" font-size="12">TypeScript 30.3%</text>
     <circle cx="30" cy="188" r="5" fill="#3572A5"/>
-    <text x="41" y="192" fill="#9eeaf9" font-size="12">Python 22.2%</text>
+    <text x="41" y="192" fill="#9eeaf9" font-size="12">Python 21.1%</text>
     <circle cx="255" cy="188" r="5" fill="#563d7c"/>
-    <text x="266" y="192" fill="#9eeaf9" font-size="12">CSS 5.8%</text>
+    <text x="266" y="192" fill="#9eeaf9" font-size="12">CSS 7.6%</text>
     <circle cx="30" cy="210" r="5" fill="#e34c26"/>
-    <text x="41" y="214" fill="#9eeaf9" font-size="12">HTML 2.3%</text>
+    <text x="41" y="214" fill="#9eeaf9" font-size="12">HTML 2.2%</text>
     <circle cx="255" cy="210" r="5" fill="#DA5B0B"/>
     <text x="266" y="214" fill="#9eeaf9" font-size="12">Jupyter Notebook 0.7%</text>
     <circle cx="30" cy="232" r="5" fill="#8b949e"/>
